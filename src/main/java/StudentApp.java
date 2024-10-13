@@ -8,7 +8,7 @@ public class StudentApp {
     String[] details3 = getDetails();
 
     Student s1 = new Student();
-    s1.setName(details[0]);
+    s1.setName(name);
     s1.setEmail(email);
     s1.setCourse(course);
 

@@ -3,7 +3,6 @@ public class Student {
     private String email;
     private String course;
 
-    /*
     public Student() {
         //this.name = null;
         //this.email = null;
@@ -21,7 +20,6 @@ public class Student {
         this.email = email;
         this.course = course;
     }
-    */
 
     public String getName() {
         return name;
