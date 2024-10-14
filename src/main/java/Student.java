@@ -47,19 +47,10 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Name: " + name + ", Email: " + email + ", Course: " + course;
-    }
-
-    /*
-    @Override
-    public String toString() {
         return "Student Details{" +
                 "name='" + name + '\'' +
                 ", email='" + email + '\'' +
                 ", course='" + course + '\'' +
                 '}';
     }
-    */
 }
-
-

@@ -18,10 +18,6 @@ public class StudentApp {
     System.out.println(s1);
     System.out.println(s2);
 
-    //System.out.println("Student 1: Name: " + student1.getName() + ", Email: " + student1.getEmail() + ", Course: " + student1.getCourse());
-    //System.out.println("Student 2: Name: " + student2.getName() + ", Email: " + student2.getEmail() + ", Course: " + student2.getCourse());
-    //System.out.println("Student 3: Name: " + student3.getName() + ", Email: " + student3.getEmail() + ", Course: " + student3.getCourse());
-
     }
     public static String[] getDetails() {
         Scanner sc = new Scanner(System.in);
